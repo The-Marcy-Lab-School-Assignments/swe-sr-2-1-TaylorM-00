@@ -81,3 +81,26 @@ can help with more complex designs bc its all done in one place.
 best for large, multi page websites.
 
 -
+
+//
+// Q4
+elements = HTML elements <h1>,<p>,<body>,/ must have <starttag> content <endtag>
+
+- id = mark element as a single, unique, important item on the page.
+  !only one per page!
+
+- class = to indicate multiple related elements on a page or website.
+  !more than once!
+
+- both can reference elements on page with either js or css
+  both can be put both in a single tag <p id="" class=""> </p>
+
+//
+// Q5
+? is it best practice to build a website using JS and DOM API
+? how do know when to write using HTML & CSS, what is created when JS and DOM API
+//
+dom = html structure but in JS Object format => const h1 {
+id : "",
+tectContent: "
+}
